@@ -7,4 +7,6 @@ We have three water jugs A,B and C. A holds 7L of water, B 4L and C 2L. There is
 # Appropriate actions
 - Fill a jug e.g. (fillA) to fill the jug A.
 - Empty a jug e.g. (emptyA) to empty the jug A.
-- Pour water from one jug to other e.g. (putAtoB) to pour water from jug A to jug B. 
+- Pour water from one jug to another e.g. (putAtoB) to pour water from jug A to jug B. 
+
+# Solution
