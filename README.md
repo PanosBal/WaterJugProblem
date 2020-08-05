@@ -10,3 +10,5 @@ We have three water jugs A,B and C. A holds 7L of water, B 4L and C 2L. There is
 - Pour water from one jug to another e.g. (putAtoB) to pour water from jug A to jug B. 
 
 # Solution
+![waterlisp](https://user-images.githubusercontent.com/46083188/89442684-e60d9d80-d757-11ea-9143-174d54c29d47.jpg)
+
